@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 18,
+    "editor.tabSize": 4,
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "flake8.args": [
+        "--max-line-length=120"
+    ]
+}

@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+django-cors-headers==4.3.1
+django-jazzmin==2.6.0
